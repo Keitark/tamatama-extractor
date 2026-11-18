@@ -1,0 +1,14 @@
+__pycache__/
+.venv/
+*.bin
+*.o
+*.elf
+build-*/
+boot/
+raw-boot/
+lfi/
+restore-plan/
+dry-check/
+restore-result/
+readback/
+/receipt.json
